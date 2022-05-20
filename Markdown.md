@@ -1,6 +1,7 @@
 ## 마크다운 학습 
 - https://codesik.github.io/How-To-Use-MarkDown/
 - https://heropy.blog/2017/09/30/markdown/
+- https://github.com/jinkyukim-me/markdown_ko
 
 ---
 - 줄바꿈은 중괄호 br <br> 또는 스페이스바 세번
@@ -32,3 +33,32 @@
 
 링크를 포함해서 이미지 삽입
 [![이미지 설명](이미지 링크)](연결될 url)
+
+---
+수평선(Horizontal Rule)
+각 기호를 3개 이상 입력하세요.
+
+---
+(Hyphens)
+
+***
+(Asterisks)
+
+___
+(Underscores)
+
+---
+
+4.1. Unordered lists 순서가 없는 목록
+*, +, - 를 이용해서 순서가 없는 목록을 만들 수 있습니다.
+들여쓰기를 하면 모양이 바뀝니다.
+4.2. Ordered lists 순서가 있는 목록
+숫자를 기입하면 순서가 있는 목록이 됩니다.
+들여쓰기를 하면 모양이 바뀝니다.
+Syntax 마크다운 사용법
+* Item 1
+* Item 2
+  * Item 1
+  * Item 2
+    * Item 1
+    * Item 2

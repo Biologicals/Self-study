@@ -70,3 +70,6 @@ Syntax 마크다운 사용법
   * Item 2
     * Item 1
     * Item 2
+
+*** 
+- [이모지] <https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md> 
